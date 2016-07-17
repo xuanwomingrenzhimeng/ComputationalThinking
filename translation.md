@@ -5,7 +5,7 @@ jeannette M.Wing 美国计算机科学家，卡内基－梅隆大学教授，该
 It represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use.
 它代表了一种普遍适用的态度和技能，每一个人，而不仅仅是计算机科学家，将能够学习和使用。
 
-First paragraph
+
 Computational thinking builds on the power and limits of computing processes, whether they are executed by a human or by a machine. 
 计算思维是建立在计算过程的能力和极限的，无论它们是由人或机器执行的。
 Computational methods and models give us the courage to solve problems and design systems that no one of us would be capable of tackling alone. 
@@ -17,7 +17,6 @@ Most fundamentally it addresses the question: What is computable?
 Today, we know only parts of the answers to such questions.
 今天，我们只知道这些问题的答案的一部分。
 
-Second paragraph
 Computational thinking is a fundamental skill for everyone, not just for computer scientists. 
 计算思维是每个人的基本技能，而不仅仅是计算机科学家的特权。
 To reading, writing, and arithmetic, we should add computational thinking to every child’s analytical ability. 
@@ -25,13 +24,11 @@ To reading, writing, and arithmetic, we should add computational thinking to eve
 Just as the printing press facilitated the spread of the three Rs, what is appropriately incestuous about this vision is that computing and computers facilitate the spread of computational thinking.
 正如印刷术促进了三R（来自wiki百科：The three Rs, a widely used abbreviation for the basic elements of a primary school curriculum: reading, ’riting (writing), and ’rithmetic (arithmetic)）的传播，与这个一样的关系是关于计算和计算机促进计算思维的传播。
 
-Third paragraph
 Computational thinking involves solving problems, designing systems, and understanding human behavior, by drawing on the concepts fundamental to computer science. 
 计算思维涉及到解决问题，设计系统，并了解人类的行为，通过借鉴计算机科学的基本概念。
 Computational thinking includes a range of mental tools that reflect the breadth of the field of computer science.
 计算思维包括一系列反映计算机科学领域的思维工具。
 
-fourth paragraph
 Having to solve a particular problem, we might ask: How difficult is it to solve? and What’s the best way to solve it? 
 要解决特别的问题，我们可能会问，解决这个问题有多困难，什么是最高解决方式
 我们要解决一个特定的问题，我们可能会问：这是问题要解决是多么困难？解决它的最佳方法是什么？
@@ -42,13 +39,11 @@ Stating the difficulty of a problem accounts for the underlying power of the mac
 We must consider the machine’s instruction set, its resource constraints, and its operating environment.
 我们必须考虑机器的指令集，它的资源约束，以及它的操作环境。
 
-fifth paragraph
 In solving a problem efficiently, we might further ask whether an approximate solution is good enough, whether we can use randomization to our advantage, and whether false positives or false negatives are allowed. 
 *在有效地解决一个问题时，我们可能会进一步得出一个近似的解决方法，是否我们要利用随机数，并且。
 Computational thinking is reformulating a seemingly difficult problem into one we know how to solve, perhaps by reduction, embed- ding, transformation, or simulation.
 计算思维是将看起来困难的问题转化为一个我们知道如何解决的问题，通过减少，隐藏，转化，和模拟的方式。
 
-sixth paragraph
 Computational thinking is thinking recursively. 
 计算思维是递归思维。
 It is parallel processing. 
@@ -64,7 +59,6 @@ It is recognizing both the cost and power of indirect addressing and procedure c
 It is judging a program not just for correctness and efficiency but for aesthetics, and a system’s design for simplicity and elegance.
 它是判断一个程序，不只是为了正确性和效率，为美学，一个系统的设计为简单和优雅。
 
-seventh paragraph
 Computational thinking is using abstraction and decomposition when attacking a large complex task or designing a large complex system. 
 计算思维在分析一个大型复杂的任务或设计一个大型复杂的系统时，使用的抽象和分解。
 It is separation of concerns. 
@@ -78,7 +72,6 @@ It is having the confidence we can safely use, modify, and influence a large com
 It is modularizing something in anticipation of multiple users or prefetching and caching in anticipation of future use.
 *它是模块化的，在多个用户或预取的预期和未来预期的缓存使用。
 
-eighth paragraph
 Computational thinking is thinking in terms of prevention, protection, and recovery from worstcase scenarios through redundancy, damage containment, and error correction. 
 计算思维是在思考预防，保护和恢复方面从最糟糕的情况下通过冗余，控制损害，与误差修正。
 It is calling gridlock deadlock and contracts interfaces. 
@@ -97,10 +90,10 @@ Computational thinking is using massive amounts of data to speed up computation.
 It is making tradeoffs between time and space and between processing power and storage capacity.
 它是在时间，空间，处理能力和存储容量之间的做出权衡。
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Thinking like a computer scientist means more than being able to program a computer. It requires thinking at multiple levels of abstraction.
 像计算机科学家一样思考不仅仅意味着能够为计算机编程。还需要在多个层次的抽象思维。
-———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Consider these everyday examples: When your daughter goes to school in the morning, she puts in her backpack the things she needs for the day; that’s prefetching and caching. 
 考虑这些日常的例子：当你的女儿在早上上学时，她的背包中装的她需要的一天的东西，这是预取和缓存。
@@ -189,21 +182,4 @@ Professors of computer science should teach a course called “Ways to Think Lik
 
 Jeannette M. Wing (wing@cs.cmu.edu) is the President’s Professor of Computer Science in and head of the Computer Science Department at Carnegie Mellon University, Pittsburgh, PA.
 © 2006 ACM 0001-0782/06/0300 $5.00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
